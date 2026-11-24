@@ -1,0 +1,4 @@
+pydobot
+pyserial
+opencv-python
+numpy
